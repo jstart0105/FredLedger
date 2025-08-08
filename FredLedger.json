@@ -1,0 +1,59 @@
+{
+  "perfilUsuario": {
+    "nome": "João Cunha",
+    "perfilRisco": "",
+    "dataAtualizacaoPerfil": "",
+    "valorAporteMensal": ,
+    "respostasAPI": {
+      "objetivo": "",
+      "horizonteTemporal": "",
+      "toleranciaPerda": "",
+      "capacidadePoupanca": "",
+      "conhecimentoProdutos": [
+        "",
+        ""
+      ],
+      "conhecimentoMercado": ""
+    }
+  },
+  "situacaoFinanceira": {
+    "saldoCaixaDisponivel": ,
+    "carteira": [
+      {
+        "ativo": "",
+        "tipo": "",
+        "quantidade": ,
+        "precoMedioCompra": ,
+        "custoTotalAquisicao": ,
+        "custodiante": ""
+      },
+      {
+        "ativo": "",
+        "tipo": "",
+        "quantidade": ,
+        "precoMedioCompra": ,
+        "custoTotalAquisicao": ,
+        "custodiante": ""
+      },
+    ],
+    "historicoTransacoes": [
+      {
+        "data": "",
+        "tipo": "",
+        "ativo": "",
+        "quantidade": ,
+        "precoExecucao": ,
+        "resultadoLiquido": 
+      },
+      {
+        "data": "",
+        "tipo": "",
+        "ativo": "",
+        "quantidade": ,
+        "precoExecucao": ,
+        "resultadoLiquido":
+      },
+      }
+    ]
+  }
+}
