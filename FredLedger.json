@@ -1,58 +1,88 @@
 {
   "perfilUsuario": {
     "nome": "João Cunha",
-    "perfilRisco": "",
-    "dataAtualizacaoPerfil": "",
-    "valorAporteMensal": ,
+    "perfilRisco": "Moderado",
+    "dataAtualizacaoPerfil": "2025-08-08",
+    "valorAporteMensal": null,
     "respostasAPI": {
-      "objetivo": "",
-      "horizonteTemporal": "",
-      "toleranciaPerda": "",
-      "capacidadePoupanca": "",
+      "objetivo": "b",
+      "horizonteTemporal": "b",
+      "toleranciaPerda": "b",
+      "capacidadePoupanca": "c",
       "conhecimentoProdutos": [
-        "",
-        ""
+        "b"
       ],
-      "conhecimentoMercado": ""
+      "conhecimentoMercado": "a"
     }
   },
   "situacaoFinanceira": {
-    "saldoCaixaDisponivel": ,
+    "saldoCaixaDisponivel": 6.97,
     "carteira": [
       {
-        "ativo": "",
-        "tipo": "",
-        "quantidade": ,
-        "precoMedioCompra": ,
-        "custoTotalAquisicao": ,
-        "custodiante": ""
+        "ativo": "Tesouro Selic 2028",
+        "tipo": "Título Público",
+        "quantidade": 0.03,
+        "precoMedioCompra": 17093.67,
+        "custoTotalAquisicao": 512.81,
+        "custodiante": "Banco Inter"
       },
       {
-        "ativo": "",
-        "tipo": "",
-        "quantidade": ,
-        "precoMedioCompra": ,
-        "custoTotalAquisicao": ,
-        "custodiante": ""
+        "ativo": "Tesouro IPCA+ 2029",
+        "tipo": "Título Público",
+        "quantidade": 0.16,
+        "precoMedioCompra": 3441.56,
+        "custoTotalAquisicao": 550.65,
+        "custodiante": "Banco Inter"
       },
+      {
+        "ativo": "BOVA11",
+        "tipo": "ETF",
+        "quantidade": 1,
+        "precoMedioCompra": 133.23,
+        "custoTotalAquisicao": 133.23,
+        "custodiante": "Banco Inter"
+      },
+      {
+        "ativo": "USD",
+        "tipo": "Moeda",
+        "quantidade": 26,
+        "precoMedioCompra": 5.67,
+        "custoTotalAquisicao": 147.38,
+        "custodiante": "Banco Inter"
+      }
     ],
     "historicoTransacoes": [
       {
-        "data": "",
-        "tipo": "",
-        "ativo": "",
-        "quantidade": ,
-        "precoExecucao": ,
-        "resultadoLiquido": 
+        "data": "2025-08-08",
+        "tipo": "Compra",
+        "ativo": "Tesouro Selic 2028",
+        "quantidade": 0.03,
+        "precoExecucao": 170.93,
+        "resultadoLiquido": -512.81
       },
       {
-        "data": "",
-        "tipo": "",
-        "ativo": "",
-        "quantidade": ,
-        "precoExecucao": ,
-        "resultadoLiquido":
+        "data": "2025-08-08",
+        "tipo": "Compra",
+        "ativo": "Tesouro IPCA+ 2029",
+        "quantidade": 0.16,
+        "precoExecucao": 34.41,
+        "resultadoLiquido": -550.65
       },
+      {
+        "data": "2025-08-08",
+        "tipo": "Compra",
+        "ativo": "BOVA11",
+        "quantidade": 1,
+        "precoExecucao": 133.23,
+        "resultadoLiquido": -133.23
+      },
+      {
+        "data": "2025-08-08",
+        "tipo": "Compra",
+        "ativo": "USD",
+        "quantidade": 26,
+        "precoExecucao": 5.43,
+        "resultadoLiquido": -147.38
       }
     ]
   }
