@@ -38,8 +38,8 @@
         "ativo": "BOVA11",
         "tipo": "ETF",
         "quantidade": 1,
-        "precoMedioCompra": 133.23,
-        "custoTotalAquisicao": 133.23,
+        "precoMedioCompra": 133.25,
+        "custoTotalAquisicao": 133.25,
         "custodiante": "Banco Inter"
       },
       {
@@ -73,8 +73,8 @@
         "tipo": "Compra",
         "ativo": "BOVA11",
         "quantidade": 1,
-        "precoExecucao": 133.23,
-        "resultadoLiquido": -133.23
+        "precoExecucao": 133.25,
+        "resultadoLiquido": -133.25
       },
       {
         "data": "2025-08-08",
